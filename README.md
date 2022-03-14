@@ -33,7 +33,7 @@ School Summary:
 
 
 Thomas High School perfomance Summary:
-Math and reading scores for ninth graders at Thomas High School were replaced with 'NaN' (Not 0)so that their scores would not affect future calculations.  If all of the students' scores were replaced with a '0', then this would negatively impact averages for the school and school district.
+Math and reading scores for ninth graders at Thomas High School were replaced with 'NaN' (Not 0) so the scores would not affect future calculations.  If the students' scores were replaced with '0', then this would negatively impact averages.
 ![Thomas_df](Resources/Thomas_df.png)
 
 ## Summary
