@@ -13,10 +13,10 @@ The school board has found evidence of academic dishonesty in the student_comple
 
 ## Results
 
-The school board has requested the following deliverables:
-- A high-level snapshot of the district's key metrics, presented in a table format
-- An overview of the key metrics for each school, presented in a table format
-- Tables presenting each of the following metrics:
+The school board requested deliverables:
+- The districts metrics, presented in a table format
+- The key metrics for each school, presented in a table format
+- Tables metrics:
     - Top 5 and bottom 5 performing schools, based on the overall passing rate
     - The average math score received by students in each grade level at each school
     - The average reading score received by students in each grade level at each school
@@ -33,28 +33,28 @@ School Summary:
 
 
 Thomas High School perfomance Summary:
-Math and reading scores for ninth graders at Thomas High School were replaced with 'NaN' (Not a Number) so that their scores would not affect future calculations.  If all of the students' scores were replaced with a '0', then this would negatively impact averages for the school and school district.
+Math and reading scores for ninth graders at Thomas High School were replaced with 'NaN' (Not 0)so that their scores would not affect future calculations.  If all of the students' scores were replaced with a '0', then this would negatively impact averages for the school and school district.
 ![Thomas_df](Resources/Thomas_df.png)
 
 ## Summary
-Removing 9th grade student scores from Thomas High School affected the school district in the following ways:
+Removed 9th grade student scores from Thomas High School:
 - Average math scores dropped slightly (<1%)
 - Average reading scores were not affected
 - Percentage of students passing math dropped slightly (-1%)
 - Percentage of students passing reading dropped slightle (-1%)
 - The overall passing rate dropped (-1%)
 
-Only scores for Thomas High School were affected:
+Affected scores for Thomas High School:
 - Perentage of students passing math dropped from 93.2% to 66.9%
 - Percentage of students passing reading dropped from 97.3% to 69.7%
 - Overall passing percentage dropped from 90.9% to 65.1%
 
-Thomas High School affected school rankings in the following ways:
+Thomas High School rankings:
 - Thomas High school dropped out of the top 5 high schools in the district
 - Wright High School moved into the top 5 high schools in the district
 - Bottom 5 high schools was unaffected
 
-Removing 9th grade student scores from Thomas High School affected other reports:
+Other affected reports from Thomas High School:
 - Math and reading scores by grade remained the same for all other schools
 - Thomas High School had no data to report for 9th grade math and reading scores
 - Scores by school spending chaged at the $601-650 range:
