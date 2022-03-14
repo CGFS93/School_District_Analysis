@@ -14,56 +14,35 @@ The school board has found evidence of academic dishonesty in the student_comple
 ## Results
 
 District Summary:
-* 
-* 
-	-
-	- 
-
 ![district_summary_df](Resources/district_summary_df.png)
 
 
 School Summary:
-* 
-* 
-	-
-	- 
-	-
-
 ![per_school_summary_df](Resources/per_school_summary_df.png)
 
 
 Thomas High School perfomance Summary:
-* 
-
 ![Thomas_df]Resources/Thomas_df.png)
 
-*Ninth-grade Score substitution effect: 
-	-
-	- 
-
+Ninth-grade Score substitution effect:
 ![student_data_df]Resources/student_data_df.png)
 
-* Math and reading scores by grades:
-
+Math and reading scores by grades:
 	-Math Scores
-
 ![math_scores_by_grade]Resources/math_scores_by_grade.png)
 
 	-Reading Scores
-
 ![reading_scores_by_grade]Resources/reading_scores_by_grade.png)
 
-* Scores by spending, size, and type:
+Scores by spending, size, and type:
 
 	-Scores by School spending
-
 ![alt text](http://url/to/img.png)
 
 	- Scores by School size
 ![school_size_summary_df](Resources/school_size_summary_df.png)
 
 	-Scores by School type
-
 ![school_type_summary_df](Resources/school_type_summary_df.png)
 
 
