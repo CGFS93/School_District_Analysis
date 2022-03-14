@@ -47,7 +47,7 @@ Thomas High School perfomance Summary:
 
 	-Math Scores
 
-![math_scores_by_grade.]Resources/math_scores_by_grade.png)
+![math_scores_by_grade]Resources/math_scores_by_grade.png)
 
 	-Reading Scores
 
