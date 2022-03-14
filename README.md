@@ -51,7 +51,7 @@ Thomas High School perfomance Summary:
 
 	-Reading Scores
 
-![readding_scores_by_grade]Resources/reading_scores_by_grade.png)
+![reading_scores_by_grade]Resources/reading_scores_by_grade.png)
 
 * Scores by spending, size, and type:
 
