@@ -22,17 +22,17 @@ School Summary:
 
 
 Thomas High School perfomance Summary:
-![Thomas_df]Resources/Thomas_df.png)
+![Thomas_df](Resources/Thomas_df.png)
 
 Ninth-grade Score substitution effect:
-![student_data_df]Resources/student_data_df.png)
+![student_data_df](Resources/student_data_df.png)
 
 Math and reading scores by grades:
 	-Math Scores
-![math_scores_by_grade]Resources/math_scores_by_grade.png)
+![math_scores_by_grade](Resources/math_scores_by_grade.png)
 
 	-Reading Scores
-![reading_scores_by_grade]Resources/reading_scores_by_grade.png)
+![reading_scores_by_grade](Resources/reading_scores_by_grade.png)
 
 Scores by spending, size, and type:
 
