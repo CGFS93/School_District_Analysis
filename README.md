@@ -28,21 +28,21 @@ Ninth-grade Score substitution effect:
 ![student_data_df](Resources/student_data_df.png)
 
 Math and reading scores by grades:
-	-Math Scores
+	##Math Scores
 ![math_scores_by_grade](Resources/math_scores_by_grade.png)
 
-	-Reading Scores
+	*Reading Scores
 ![reading_scores_by_grade](Resources/reading_scores_by_grade.png)
 
 Scores by spending, size, and type:
 
-	-Scores by School spending
+	*Scores by School spending
 ![alt text](http://url/to/img.png)
 
-	- Scores by School size
+	*Scores by School size
 ![school_size_summary_df](Resources/school_size_summary_df.png)
 
-	-Scores by School type
+	*Scores by School type
 ![school_type_summary_df](Resources/school_type_summary_df.png)
 
 
