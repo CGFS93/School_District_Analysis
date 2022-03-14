@@ -13,6 +13,17 @@ The school board has found evidence of academic dishonesty in the student_comple
 
 ## Results
 
+The school board has requested the following deliverables:
+- A high-level snapshot of the district's key metrics, presented in a table format
+- An overview of the key metrics for each school, presented in a table format
+- Tables presenting each of the following metrics:
+    - Top 5 and bottom 5 performing schools, based on the overall passing rate
+    - The average math score received by students in each grade level at each school
+    - The average reading score received by students in each grade level at each school
+    - School performance based on the budget per student
+    - School performance based on the school size 
+    - School performance based on the type of school
+
 District Summary:
 ![district_summary_df](Resources/district_summary_df.png)
 
@@ -22,39 +33,8 @@ School Summary:
 
 
 Thomas High School perfomance Summary:
+Math and reading scores for ninth graders at Thomas High School were replaced with 'NaN' (Not a Number) so that their scores would not affect future calculations.  If all of the students' scores were replaced with a '0', then this would negatively impact averages for the school and school district.
 ![Thomas_df](Resources/Thomas_df.png)
-
-Ninth-grade Score substitution effect:
-![student_data_df](Resources/student_data_df.png)
-
-Math and reading scores by grades:
-
-Math Scores:
-
-
-
-![math_scores_by_grade](Resources/math_scores_by_grade.png)
-
-##Reading Scores
-![reading_scores_by_grade](Resources/reading_scores_by_grade.png)
-
-Scores by spending, size, and type:
-
-Scores by School spending:
-District spending per school was calculated by determining average spending ($620), standard deviation (~30), minimum spending amount ($578), lower quartile ($592), mid quartile ($628), upper quartile ($642), and mximum spending amount ($655) across all 15 schools.
-
-###Scores by School size
-Scores by school size were calculated by determining size ranges for all 15 schools in the district:
-Small (<1000)
-Medium (1000-2000)
-Large (2000-5000)
-![school_size_summary_df](Resources/school_size_summary_df.png)
-
-###Scores by School type
-Schools were either charter or district schools.  Charter schools performed better than district schools.
-
-![school_type_summary_df](Resources/school_type_summary_df.png)
-
 
 ## Summary
 Removing 9th grade student scores from Thomas High School affected the school district in the following ways:
